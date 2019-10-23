@@ -175,7 +175,7 @@ A Linked Data dataset defines its license with the Dublin Core dct:license prope
   <tr><td>transport.linked.data.gov.au</td><td>(TRANSPORT)</td></tr>
 </table>
 
-<p>The publisher of a Linked Data dataset can chose the sub-domain they feel is appropriate for the entities contained within the dataset. If it is unclear  which sub-domain is appropriate for a particular Linked Data dataset the <a href="http://naa.gov.au/agift/search.htm">National Archives search tool</a> can be used to help identify the government function matching most closely with the domain of the entities  contained in the Linked Data dataset.</p>
+<p>The publisher of a Linked Data dataset can choose the sub-domain they feel is appropriate for the entities contained within the dataset. If it is unclear  which sub-domain is appropriate for a particular Linked Data dataset the <a href="http://naa.gov.au/agift/search.htm">National Archives search tool</a> can be used to help identify the government function matching most closely with the domain of the entities  contained in the Linked Data dataset.</p>
 
 <table border="1" cellspacing="0" cellpadding="0">
   <tr>
@@ -548,7 +548,7 @@ If instances are included in the same file as the classes and properties, the UR
   </tr>
 </table>
 <h1><a name="h.depmzbrccojw" id="h.depmzbrccojw"></a>7. HOW-TO publish a Linked Data dataset on linked.data.gov.au</h1>
-<p>In this section a walk-through example is presented on how to publish a Linked Data dataset on linked.data.gov.au. The instructions presented are based on the example school dataset that was used throughout the document. For the example, let us assume a state government agency governing the educational portfolio in the Australian Capital Territory is to publish the &ldquo;Locations of all ACT schools&rdquo; in a Linked Data fashion. Currently, a CSV version of this dataset is available at <a href="http://www.data.gov.au/dataset/location-of-act-schools">http://www.data.gov.au/dataset/location-of-act-schools</a> published by the Department of Education and Training (ACT).</p>
+<p>In this section a walk-through example is presented on how to publish a Linked Data dataset on linked.data.gov.au. The instructions presented are based on the example school dataset that was used throughout the document. For the example, let us assume a state government agency governing the educational portfolio in the Australian Capital Territory is to publish the &ldquo;Locations of all ACT schools&rdquo; in a Linked Data fashion. Currently, a <a href="https://www.data.act.gov.au/Education/ACT-School-Locations-2017-archived/q8rt-q8cy/">CSV version of this dataset</a> is published by the Department of Education and Training (ACT).</p>
 <h2><a name="h.kdopiiao7s23" id="h.kdopiiao7s23"></a>Choose Sub-Domain</h2>
 <p>First, an appropriate sub-domain for the dataset has to be chosen. For the &ldquo;Location of ACT schools&rdquo; the <strong>&ldquo;education&rdquo; </strong>sub-domain or <strong>&ldquo;governance&rdquo; </strong>sub-domain seem appropriate, depending on the level of detail in the dataset and its relation to other datasets. Let us assume, the <strong>&ldquo;education&rdquo; </strong>sub-domain is chosen for the example ACT school dataset.</p>
 <h2><a name="h.de8w7gz2pkor" id="h.de8w7gz2pkor"></a>Choose a path structure (module)</h2>
